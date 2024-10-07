@@ -1,0 +1,2 @@
+# SpeakTales
+AI Storyteller
